@@ -1,6 +1,6 @@
 import { Icon } from "@iconify/react"
 
-export default function ProfileImageSelector() {
+export default function AvatarSelector() {
     return (
         <section className="w-min h-min items-center flex gap-2">
             <button className="w-10 h-10 grid place-items-center rounded-full hover:bg-slate-100 hover:bg-opacity-20">
